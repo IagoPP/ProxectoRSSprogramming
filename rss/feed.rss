@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Example Feed</title>
-        <description>Insert witty or insightful remark here</description>
-        <link>http://example.org/</link>
-        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <title>Programming languages</title>
+        <description>Blog about programming lenguages</description>
+        <link>https://iagopp.github.io/ProxectoRSSprogramming/</link>
+        <pubDate>Tue, 21 Nov 2022 10:00:00 GMT</pubDate>
+        <managingEditor>a22iagopp@iessanclemente.net</managingEditor>
         <item>
-        <title>Test page</title>
-        <link>http://example.org/test.html</link>
+        <title>Java</title>
+        <link>https://iagopp.github.io/ProxectoRSSprogramming/</link>
         <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-        <description>Some text.</description>
+        <description>Java trickshots</description>
         </item>
-        </channel>
+    </channel>
+    <channel>
+        <title>Programming languages</title>
+        <description>Blog about programming lenguages</description>
+        <link>https://iagopp.github.io/ProxectoRSSprogramming/</link>
+        <pubDate>Tue, 21 Nov 2022 10:00:00 GMT</pubDate>
+        <managingEditor>a22iagopp@iessanclemente.net</managingEditor>
+        <item>
+        <title>Java</title>
+        <link>https://iagopp.github.io/ProxectoRSSprogramming/</link>
+        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+        <description>Java trickshots</description>
+        </item>
+    </channel>
 </rss>
